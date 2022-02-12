@@ -5,3 +5,5 @@ bat ball
 thy
 shoes
 shirt
+pants
+elgo
