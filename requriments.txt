@@ -2,3 +2,6 @@ helemt
 pad
 glubs
 bat ball
+thy
+shoes
+shirt
